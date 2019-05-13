@@ -4,3 +4,16 @@ h1 {
     background-color: lightblue;
     text-align: center;
   }
+
+  .student-contributor{
+    border: 2mm solid lightslategray;
+    width: 50%;
+    padding: 10px;
+    margin-left: 25%;
+    margin-top: 100px;
+    display: block;
+  }
+
+  .student-contributor >img {
+    margin-left: 150px;
+  }
